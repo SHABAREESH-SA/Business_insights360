@@ -20,6 +20,7 @@ To view the dashboard [Click here](https://bit.ly/businessinsights360)
 ➡ Project charter file
 
 
+
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
 
 ➡ Creating calculated columns
@@ -47,6 +48,7 @@ To view the dashboard [Click here](https://bit.ly/businessinsights360)
 ➡ Publishing reports to PowerBi services
 
 ➡ Setting up the personal gateway to set up the auto-refresh of data
+
 
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬
@@ -77,30 +79,46 @@ Based on the mock ups received as requirement, the team will start designing the
 
 
 Home view
+
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-Info
+![Screenshot 2024-08-12 115143](https://github.com/user-attachments/assets/78187859-c13c-4300-84dd-cca6c58e870b)
+
+Info : It contains some project information
 
 Finance View
 
+![Screenshot 2024-08-13 130630](https://github.com/user-attachments/assets/c35a7447-9b30-4b31-a4fb-9cd157bda8cf)
+
+
 Sales View
+
+![Screenshot 2024-08-13 130711](https://github.com/user-attachments/assets/194f961b-0ee1-494a-9c36-e30fe4ac98e2)
+
 
 Marketing View
 
+![Screenshot 2024-08-13 130735](https://github.com/user-attachments/assets/6ed3de38-0878-4a49-8bc1-9f0640e8c715)
+
+
 Supply chain View
+
+![Screenshot 2024-08-13 130751](https://github.com/user-attachments/assets/b476c728-f786-4e5b-9133-722744518e53)
+
 
 Executive View
 
+![Screenshot 2024-08-13 130811](https://github.com/user-attachments/assets/690f06c3-d955-4001-b4a5-27ed438ee884)
+
+
 Products View
 
-Support
+![Screenshot 2024-08-13 130843](https://github.com/user-attachments/assets/3aaee9bd-0c1b-4faa-8ca2-a3d7148221c4)
 
 
-Overall Report
-![Screenshot 2024-08-12 115143](https://github.com/user-attachments/assets/78187859-c13c-4300-84dd-cca6c58e870b)
+Support: It contains user supporting materials
 
 
-"C:\Users\Aradhyamath's\Videos\Screen Recordings\Screen Recording 2024-08-12 120915.mp4"
-
+Overall Report:
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
